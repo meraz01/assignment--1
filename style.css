@@ -1,0 +1,129 @@
+body{
+    
+
+
+}
+h1{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 70px;
+    font-weight: 300;
+    font-style: normal;
+    line-height: 70px;
+    
+}
+h2{
+   font-family: 'Bebas Neue', cursive;
+    font-style: normal;
+    font-size: 45px;
+    font-weight: 400;
+    color: #363958;
+
+}
+h3{
+    font-family: 'Roboto', sans-serif;
+    color: #363958;
+    font-size: 20px;
+    font-weight: bold;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+    color: #3E3E3E;
+    size: 16px;
+}
+.name-1{
+    color: #363958;
+}
+.name{
+    color: tomato;
+}
+.top{
+    margin: 30px 10px 10px 30px;
+    padding: 50px;
+}
+.second{
+    margin: 30px 10px ;
+    padding: 50px
+}
+.button{
+    
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    background-image: linear-gradient(lightsalmon, tomato);
+    padding: 15px 30px;
+    border-radius: 5px;
+}
+.button-2{text-decoration: none;
+    color: white;
+    font-weight: 700;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 15px 30px;
+    border-radius: 5px;
+
+}
+.half-width img{
+    width: 100%;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+section{
+    height: 500px;
+    padding-bottom: 100px;
+}    
+.third-banner{
+    background-color:oldlace;
+}
+.name-2{
+    color: tomato;
+}
+.name--2{
+    text-align: center;
+}
+#side{margin-left: 150px;
+
+}
+.box{
+    height: 304px;
+    width: 300px;
+    float: left;
+    margin: 10px;
+    
+    box-shadow: 10px 10px 30px #FFFFFF, 100%;
+    background-color: #FFFFFF;
+    border-radius: 20px;
+    padding : 10px;
+    
+   
+}
+.ii{
+    float: left;
+}
+.box img{
+      width: 100%;
+   }    
+    
+.imp{
+    margin-left: 0;
+    
+}
+.im-p{
+    padding-top: 7%;
+    margin-left: 25%;
+}
+.forth-banner{
+    background-image: url(shape/last-banner.png);
+    background-size: 80%;
+    margin-left: 20%;
+    margin-top: 15%;
+    margin-bottom: 0;
+    padding-top: 2%;
+    padding-left: 3%;
+    background-repeat: no-repeat;
+}
+.last{ 
+    text-align: center;
+}
